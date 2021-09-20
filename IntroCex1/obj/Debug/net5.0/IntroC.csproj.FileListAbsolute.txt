@@ -1,0 +1,16 @@
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.exe
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.deps.json
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.runtimeconfig.json
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.runtimeconfig.dev.json
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\ref\IntroC.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroC\bin\Debug\net5.0\IntroC.pdb
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.csproj.AssemblyReference.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.AssemblyInfoInputs.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.AssemblyInfo.cs
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.csproj.CoreCompileInputs.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\ref\IntroC.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.pdb
+C:\Users\jonat\RiderProjects\IntroC\IntroC\obj\Debug\net5.0\IntroC.genruntimeconfig.cache

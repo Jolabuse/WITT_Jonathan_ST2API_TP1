@@ -1,0 +1,16 @@
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.exe
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.deps.json
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.runtimeconfig.json
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.runtimeconfig.dev.json
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\ref\IntroCex4.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\bin\Debug\net5.0\IntroCex4.pdb
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.csproj.AssemblyReference.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.AssemblyInfoInputs.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.AssemblyInfo.cs
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.csproj.CoreCompileInputs.cache
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\ref\IntroCex4.dll
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.pdb
+C:\Users\jonat\RiderProjects\IntroC\IntroCex4\obj\Debug\net5.0\IntroCex4.genruntimeconfig.cache
