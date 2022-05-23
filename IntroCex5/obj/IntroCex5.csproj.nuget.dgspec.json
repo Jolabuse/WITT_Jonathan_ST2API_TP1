@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex5\\IntroCex5.csproj": {}
+    "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex5\\IntroCex5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex5\\IntroCex5.csproj": {
+    "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex5\\IntroCex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex5\\IntroCex5.csproj",
+        "projectUniqueName": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex5\\IntroCex5.csproj",
         "projectName": "IntroCex5",
-        "projectPath": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex5\\IntroCex5.csproj",
+        "projectPath": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex5\\IntroCex5.csproj",
         "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex5\\obj\\",
+        "outputPath": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,12 +37,6 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "dependencies": {
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

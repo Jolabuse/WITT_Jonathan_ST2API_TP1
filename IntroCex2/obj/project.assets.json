@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex2\\IntroCex2.csproj",
+      "projectUniqueName": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex2\\IntroCex2.csproj",
       "projectName": "IntroCex2",
-      "projectPath": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex2\\IntroCex2.csproj",
+      "projectPath": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex2\\IntroCex2.csproj",
       "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\RiderProjects\\IntroC\\IntroCex2\\obj\\",
+      "outputPath": "C:\\Users\\jonat\\tp3cs\\IntroCsTP1\\IntroCex2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config"
